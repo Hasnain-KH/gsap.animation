@@ -13,5 +13,5 @@ gsap.to(".backgroundimg", {
     delay: 1,
     repeat: -1,
     yoyo: true,
-    trasition: 2
+    
 })
