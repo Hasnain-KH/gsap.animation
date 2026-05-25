@@ -1,6 +1,6 @@
 gsap.from("#img", {
     y: -400,
-    duration: 1,
+    duration: 0.8,
     delay: 0.8,
     ease: "back.out(2.3)",
     skewX: 45,
@@ -23,7 +23,7 @@ gsap.from("li", {
 gsap.from("button", {
     y: -400,
     duration: 1,
-    delay: 3,
+    delay: 2.7,
     scale: 0,
     ease: "back.out(1.5)",
     opacity: 0,
@@ -34,7 +34,7 @@ gsap.from("h1", {
     x: -1400,
     scale: 0,
     duration: 1,
-    delay: 3.8,
+    delay: 3.5,
     rotate: 10,
     opacity: 0,
     ease: "back.out(1.4)"
